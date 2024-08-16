@@ -5,7 +5,7 @@ Pytorch implementation of the following papers:
 VQA: Visual Question Answering (https://arxiv.org/pdf/1505.00468.pdf).
 Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (https://arxiv.org/pdf/1612.00837.pdf)
 
-#Data sets
+## Data sets
 
 VQA v2.0 release
 
@@ -17,5 +17,5 @@ There is only one type of task
 
 Open-ended task
 
-#Usage
+## How to Use
 Run the code in google coolab
