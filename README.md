@@ -1,1 +1,1 @@
-# VQA_CNN_AND_LSTM
+# Visual Question Answering (VQA) 
