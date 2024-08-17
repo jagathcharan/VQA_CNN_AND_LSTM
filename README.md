@@ -13,6 +13,8 @@ Real
 82,783 MS COCO training images, 40,504 MS COCO validation images and 81,434 MS COCO testing images
 443,757 questions for training, 214,354 questions for validation and 447,793 questions for testing
 4,437,570 answers for training and 2,143,540 answers for validation (10 per question)
+
+Downlode the data set from the web coco give the location of the data file in located in drive
 There is only one type of task
 
 Open-ended task
